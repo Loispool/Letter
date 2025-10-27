@@ -1,0 +1,39 @@
+body {
+    box-sizing: border-box;
+    
+    background: beige;
+}
+.dear{
+ margin:50px 30px 30px 30px;  
+
+}
+.dear h2{
+    font-weight: normal;
+     font-size: 20px;
+     font-style: italic;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman',  ;
+}
+
+.dear h2:nth-of-type(1){
+     margin-left:10px ;
+     
+}
+.dear h2:nth-of-type(2){
+    text-align: right;
+      
+}
+.dear p{
+    margin-left: 20px;
+    font-family: serif;
+    
+}
+
+
+img{
+    width:250px ;
+    height: 250px;
+    border-radius: 15px;
+    margin: auto;
+display: block;
+margin: auto;
+}
